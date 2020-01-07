@@ -1,0 +1,6 @@
+var a = document.createElement("a");
+
+a.href = "blob:http://mediathek.daserste.de/f047f368-3879-455e-8907-92f5390b2f02";
+a.setAttribute("download", "");
+
+a.click();

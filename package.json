@@ -1,0 +1,18 @@
+{
+  "name": "subtitle",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "subtitle",
+    "short"
+  ],
+  "author": "Maurice Conrad",
+  "license": "ISC",
+  "dependencies": {
+    "command-line-args": "^5.0.2"
+  }
+}
